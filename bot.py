@@ -7,7 +7,7 @@ from telegram.ext import (
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = os.environ.get("BOT_TOKEN")
+TOKEN = os.environ.get("7991720770:AAE9F8h0lxUCCDd77W85Wl9G_mxmHP91PBk")
 
 MANIFESTO = """
 📜 *Vinod Janata Party — Official Manifesto*
